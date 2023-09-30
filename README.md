@@ -2,8 +2,7 @@
 SWE - SE121, Daffodil international university - Department of Software Engineering
 
 # About this
-Md. Monoarul Islam Moon, B.Sc in SWE, DIU
-This repo may help you for SE121 (Structured Programming) course.
+By Md. Monoarul Islam Moon, B.Sc in SWE, DIU. This repo may help you for SE121 (Structured Programming) course.
 
 # Contents
 1. Condition and logical problems in C
