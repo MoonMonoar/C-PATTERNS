@@ -8,9 +8,8 @@ By Md. Monoarul Islam Moon. B.Sc in SWE, DIU. This repo may help you for SE121 (
 1. Condition and logical problems in C
 2. Patterns in C
 
-# Visit my site
-I have more free content to offer! Also, check out my courses I offer
-https://bytelover.com
+# Visit my site & Free stuff
+I have more free content! Also, check out my courses I offer here, https://bytelover.com
 
 # Subscribe to my Youtube
 https://www.youtube.com/@ByteLover
