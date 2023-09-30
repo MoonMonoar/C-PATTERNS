@@ -1,6 +1,8 @@
 # SE121-DIU
-SWE - SE121, Daffodil international university - Department of Software Engineering  <br />
-<b>Md. Monoarul Islam Moon, B.Sc in SWE, DIU</b>  <br />
+SWE - SE121, Daffodil international university - Department of Software Engineering
+
+# About this
+Md. Monoarul Islam Moon, B.Sc in SWE, DIU
 This repo may help you for SE121 (Structured Programming) course.
 
 # Contents
