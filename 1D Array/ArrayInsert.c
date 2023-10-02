@@ -6,8 +6,8 @@ Enter the element position: 4
 Array elements after insertion: 3 4 33 999 6 55 44
 */
 #include <stdio.h>
+#define MAX_SIZE 100
 int main(){
-    int MAX_SIZE = 100;
     int a[MAX_SIZE];
     int n, i, e, p;
     printf("Enter size of the array: ");
