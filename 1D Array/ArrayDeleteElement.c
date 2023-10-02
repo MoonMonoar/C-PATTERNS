@@ -1,3 +1,9 @@
+/*
+Enter size of the array: 5
+Enter elements in array: 34 23 2 4 6
+Enter the element position to delete: 3
+Elements of array after delete are: 34 23 4 6
+*/
 #include <stdio.h>
 int main(){
     int n;
