@@ -10,7 +10,7 @@ By Md. Monoarul Islam Moon. B.Sc in SWE, DIU. This repo may help you for SE121 (
 2. Run on an online compiler, just copy paste.
 3. On VSCode GCC compiler, in terminal write "gcc -o run FILE.c", press enter. Then, "run", press enter. (Replace FILE with your file name).
 
-# Visit my site & Free stuff
+# Visit our site & Free stuff
 We offer courses, free articles on my site!
 ![ByteLover Logo](https://moonmonoar.github.io/MoonsLab-docs/ReadmeFiles/ByteLoverBanner.svg)
 We have more free content! Also, check out our courses we offer here, https://bytelover.com
